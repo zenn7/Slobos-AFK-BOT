@@ -39,7 +39,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to BeaconCream",
         "I like to play Minecraft!"
       ]
     },
@@ -121,7 +121,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to BeaconCream",
         "I like to play Minecraft!"
       ]
     },
@@ -168,8 +168,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
-    "events": {
+    "webhookUrl": "https://discord.com/api/webhooks/1307951045200183327/i2H_BSgoaqBQGhaCaazeTAHf17RpfJBN-8SIyf2bCnbqfxdN0WKJwuIfmmcvWQ9LawTL"
       "connect": true,
       "disconnect": true,
       "chat": false
